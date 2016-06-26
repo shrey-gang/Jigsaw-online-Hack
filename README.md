@@ -12,3 +12,6 @@ The extension will be loaded up and active right away!
 After loading you will be able to see the icon in chrome, click the icon and follow below steps:
   1. After clicking on the icon, a popup will appear with a text box and a button. Enter the city name whose weather you need to know, and press enter.
   2. After pressing enter you will see the current temprature, weather condition and max-min temprature throughout the day.
+
+
+The script responsible for fetching the data and placing it, is written in PHP so it needs to be placed on any sever in order to run it. For this very project i have placed it on my hosting temporarily which i will be removing after some time, so if any one clones this projecct and tries to run it make sure you place that script on server first.
